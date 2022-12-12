@@ -10,5 +10,5 @@ int main(){
         cin >> num[i];
     }
     cout << funzione(num, D);
-    return 0;
+    return 0,
 }
