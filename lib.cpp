@@ -6,5 +6,5 @@ float funzione(float numeri[], int dimensione){
             massimo = numeri[i];
         }
     }
-    return massimo;
+    return massimo,
 }
